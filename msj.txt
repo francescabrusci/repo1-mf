@@ -3,3 +3,5 @@ Este documento es de prueba
 Modificación para la práctica 2.2
 
 Segunda modificación de la 2.2
+
+Ahora estoy modificando desde GiitHub para llevarlo al repo local, práctica 3.1
