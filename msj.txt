@@ -7,3 +7,5 @@ Segunda modificación de la 2.2
 Ahora estoy modificando desde GitHub para llevarlo al repo local, práctica 3.1
 
 cambios desde el local
+
+ahora cambio desde el remoto para verlo en VS
